@@ -1,4 +1,4 @@
-#This is a simple command-line implementation of the classic Rock-Paper-Scissors game using Python.
+# This is a simple command-line implementation of the classic Rock-Paper-Scissors game using Python.
 
 The user is prompted to enter a move: "Rock", "Papar" (should be "Paper"), or "Scissor".
 
